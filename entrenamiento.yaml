@@ -1,0 +1,10 @@
+
+
+path: C:\Users\Sam\Desktop\Proyectos\Segundo Semestre\Arquitectura de Computadores\Yolov3-Project\training
+train: C:\Users\Sam\Desktop\Proyectos\Segundo Semestre\Arquitectura de Computadores\Yolov3-Project\training\images
+val: C:\Users\Sam\Desktop\Proyectos\Segundo Semestre\Arquitectura de Computadores\Yolov3-Project\training\images
+
+
+
+nc: 3 # number of classes
+names: ['Woman','Man','Car']  # class names
