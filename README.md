@@ -10,7 +10,7 @@ El algoritmo Yolo, procede a dividir la imagen en varias celdas, y calcula la pr
 1. Clonar este repositorio<br/>
 ```git clone https://github.com/samantha2302/Yolov3-Project.git```  <br/> <br/> 
 2. Dentro de la carpeta clonada, ingresar a la consola y copiar el siguiente comando: <br/>
-```pip install -r requirements.txt ``` 
+```pip install -r requirements.txt ``` <br/>
 Este proyecto esta entrenado para reconocer carros, hombres y mujeres dentro de una imágen.  <br/> <br/> 
 3. Ya con el repositorio clonado, se ingresa al documento de python *ProyectoMulticore*, y se ejecuta. Dentro de la carpeta en **runs\detect** se nos van a generar diferentes carpetas con las imagenes ya procesadas. Además, en consola, se nos van a mostrar la diferencia entre los tiempos, de haber ejecutado el algoritmo con multiprocesamiento y de manera secuencial. <br/> <br/> 
 ### Prueba de los tiempos
