@@ -1,4 +1,4 @@
-# Yolov3-Project
+# Yolov3 Project
 Instituto Tecnológico de Costa Rica.<br/>
 I Proyecto de Arquitectura de Computadores, segundo semestre, 2021.<br/>
 Samantha Acuña Montero, Katherine Amador González, Raquel Arguedas Sánchez.
