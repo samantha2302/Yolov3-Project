@@ -14,6 +14,6 @@ El algoritmo Yolo, procede a dividir la imagen en varias celdas, y calcula la pr
 Este proyecto esta entrenado para reconocer carros, hombres y mujeres dentro de una imágen.  <br/> <br/> 
 3. Ya con el repositorio clonado, se ingresa al documento de python *ProyectoMulticore*, y se ejecuta. Dentro de la carpeta en **runs\detect** se nos van a generar diferentes carpetas con las imagenes ya procesadas. Además, en consola, se nos van a mostrar la diferencia entre los tiempos, de haber ejecutado el algoritmo con multiprocesamiento y de manera secuencial. <br/> <br/> 
 ### Prueba de los tiempos
-![Image text](https://photos.app.goo.gl/zoojkShEdfBNWt6M6)
+![SSTiempos](https://user-images.githubusercontent.com/91703769/138800932-86b82dbd-ea30-4706-9839-97b6c48613a6.jpg)
 ### Ejemplo de imagen procesada
-![Image text](https://cnnespanol.cnn.com/wp-content/uploads/2020/07/200703104728-labrador-retriever-stock-super-169.jpg?quality=100&strip=info)
+![ImagenProcesadaEjemplo](https://user-images.githubusercontent.com/91703769/138800887-5f78a457-f103-4516-a527-40e16e82986a.jpg)
