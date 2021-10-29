@@ -70,8 +70,8 @@ def multiprocessing():
 
 
 if __name__ == '__main__':
-    #multiprocessingVideoImages()
-    sinMultiprossesing()
+    multiprocessingVideoImages()
+    #sinMultiprossesing()
     multiprocessing()
 
 
