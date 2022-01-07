@@ -43,7 +43,7 @@ La cual se encarga de fragmentar en imágenes los videos encontrados en la carpe
 <br>![SSTiemposYOLO](https://user-images.githubusercontent.com/91703769/139379971-4e7dc414-94fd-4c93-8f79-3c9c4505c789.jpg)
 <br>Para facilitar el uso de este código, se comentó la función que procesa las imágenes linealmente.
 
-<br/>Finalmente, dentro de la carpeta en ***runs\detect*** se nos van a generar diferentes carpetas con las imagenes ya procesadas.
+Finalmente, dentro de la carpeta en ***runs\detect*** se nos van a generar diferentes carpetas con las imagenes ya procesadas.
 
 
 ### Ejemplo de una imagen procesada
