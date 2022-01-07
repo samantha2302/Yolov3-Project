@@ -37,7 +37,7 @@ La cual se encarga de fragmentar en imágenes los videos encontrados en la carpe
 
 <br/> La segunda implementación de multiprocesamiento que se da en el código es para detectar los objetos en las imágenes, mediante el algoritmo de YOLO. En una lista ya se encuentran guardadas los nombres de las imágenes, para enviarlos como parámetros a la funcion que las procesa. Para mostrar la diferencia entre los tiempos al realizarlo de manera secuencial y con multiprocesamiento solo se ultilizaron 5 fotografías, ya que la función que lo realiza de manera lineal si toma un lapso de tiempo considerable. 
  ```py
- def multiprocessing():
+ multiprocessing():
 ```
 <br>Aquí se puede apreciar la importancia de la implementacíon del multiprocesamiento, ya que los tiempos de ejecución para la obtención de objetos dentro de imágenes se reducen considerablemente.<br> 
 <br>![SSTiemposYOLO](https://user-images.githubusercontent.com/91703769/139379971-4e7dc414-94fd-4c93-8f79-3c9c4505c789.jpg)
